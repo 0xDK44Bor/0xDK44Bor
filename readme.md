@@ -53,8 +53,8 @@
  <a href="https://gitlab.com/sirbor" target="_blank">
   <img src="https://img.shields.io/badge/Gitlab-fe4164?style=for-the-badge&logo=gitlab&logoColor=white" alt="sirbor" />
  </a> 
- <a href="https://stackoverflow.com/users/15530174/sirbor" target="_blank">
-  <img src="https://img.shields.io/badge/Stackoverflow-20BEFF?&style=for-the-badge&logo=dev&logoColor=white" alt="sirbor"  />
+ <a href="https://calendly.com/sirbor" target="_blank">
+  <img src="https://img.shields.io/badge/Calendy-20BEFF?&style=for-the-badge&logo=calendy&logoColor=white" alt="sirbor"  />
   </a> 
 </p>
 <br />
