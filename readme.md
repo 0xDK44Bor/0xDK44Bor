@@ -102,10 +102,10 @@
 <br/>
 
 ## Top Open Source -
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=sirbor&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sirbor/web-projects)
-[![Sirbor Folio](https://github-readme-stats.vercel.app/api/pin/?username=sirbor&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sirbor/al-folio)
-[![Sirbor Readme](https://github-readme-stats.vercel.app/api/pin/?username=sirbor&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sirbor/sirbor)
-[![Sirbor  Teminal](https://github-readme-stats.vercel.app/api/pin/?username=sirbor&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sirbor/sirbor.github.io)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=sirbor&repo=KadiPay&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sirbor/KadiPay)
+[![Sirbor Folio](https://github-readme-stats.vercel.app/api/pin/?username=sirbor&repo=Tubonge&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sirbor/Tubonge)
+[![Sirbor Readme](https://github-readme-stats.vercel.app/api/pin/?username=sirbor&repo=PolygonOpenglProjects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sirbor/PolygonOpenglProjects)
+[![Sirbor  Teminal](https://github-readme-stats.vercel.app/api/pin/?username=sirbor&repo=alx-low_level_programming&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sirbor/alx-low_level_programming)
 
 <p align="left">
   <a href="https://github.com/sirbor?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
