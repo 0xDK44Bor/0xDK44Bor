@@ -103,9 +103,9 @@
 
 ## Top Open Source -
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=sirbor&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sirbor/web-projects)
-[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=sirbor&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sirbor/al-folio)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=sirbor&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sirbor/sirbor)
-[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=sirbor&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sirbor/sirbor.github.io)
+[![Sirbor Folio](https://github-readme-stats.vercel.app/api/pin/?username=sirbor&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sirbor/al-folio)
+[![Sirbor Readme](https://github-readme-stats.vercel.app/api/pin/?username=sirbor&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sirbor/sirbor)
+[![Sirbor  Teminal](https://github-readme-stats.vercel.app/api/pin/?username=sirbor&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sirbor/sirbor.github.io)
 
 <p align="left">
   <a href="https://github.com/sirbor?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
