@@ -50,11 +50,11 @@
  <a href="https://twitter.com/sirbor_" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/sirbor" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ <a href="https://gitlab.com/sirbor" target="_blank">
+  <img src="https://img.shields.io/badge/Gitlab-fe4164?style=for-the-badge&logo=gitlab&logoColor=white" alt="alsiam" />
  </a> 
- <a href="https://facebook.com/sirbor" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+ <a href="https://dev.to/sirbor" target="_blank">
+  <img src="https://img.shields.io/badge/Dev-20BEFF?&style=for-the-badge&logo=dev&logoColor=white" alt="alsiam"  />
   </a> 
 </p>
 <br />
