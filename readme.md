@@ -29,7 +29,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Sirbor">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Dominic+Bor">「 Google Me 」</a>
     <br>
     「 I am a Software Engineer from <b>Nairobi</b> 」
     <br>
