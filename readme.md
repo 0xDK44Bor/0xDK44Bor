@@ -65,11 +65,6 @@
 <p>
  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
- 💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
- 🌱 &nbsp; Currently Interested in Remote Opportnities on Web Application Development and Android Development.\
- 📧 &emsp; Reach me anytime: dominicbor44@protonmail.me<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/sirbor/sirbor/issues)
-
 </p>
 
 <br/>
