@@ -63,10 +63,11 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
+ <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
  ✌️ &emsp; I'm a software engineer and would like to cooperate in web application and mobile develpment <br/><br/>
- ❤️ &emsp;  Currently learning Java <br/><br/>
+ 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+ 🌱 &nbsp;Currently Interested in Remote Opportnities on Web Application Development and Android Development.\
  📧 &emsp; Reach me anytime: dominicbor44@protonmail.me<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/sirbor/sirbor/issues)
 
