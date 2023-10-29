@@ -67,7 +67,7 @@
 🎓 &nbsp;I'm currently Learning Java Basics, OOP Java, Java Springboot.\
 🌱 &nbsp;Currently Interested in Remote Opportnities on Web Application and Android Development.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at dominicbor44@protonmail.me! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at dominicbor44@proton.me I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
