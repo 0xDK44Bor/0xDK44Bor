@@ -27,10 +27,10 @@ Goal is to build more open source projects in Android Development and Web Applic
 - Node.js
 
 ## ➤ Something I've built
-- [Piqr](https://piqr.in) - A new age professional Network used by 3K+ users
-- [Readmi](https://readmi.xyz) - Open source github readme builder for your projects
-- [UI-Components](https://ui-comp69.vercel.app) - Fully Customizable & fully Typed UI Components using TailwindCSS + Typescript.
-- [Web-wallet-connect](https://github.com/starc007/web3-wallet-connect) - Open source wallet connection library for your Dapps
+- [Taxi-App](Taxi App) - This is a taxi booking system program allowing users to create accounts, book taxis, view/edit account details, and generate bills for completed rides.
+- [KadiPay](KadiPay) - KadiPay is your gateway to effortless cryptocurrency-to-fiat conversions, with a primary focus on USD and Kes.
+- [Tubonge](Tubonge) - A Full Stack Chat Application using React and Firebase.
+- [Bus](Bus) - This is a simple Bus Reservation System programmed using Cpp. 
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sirbor&show_icons=true&locale=en" alt="sirbor" /></p>
     
