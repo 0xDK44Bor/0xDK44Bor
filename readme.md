@@ -27,7 +27,7 @@ Goal is to build more open source projects in Android Development and Web Applic
 - Node.js
 
 ## ➤ Something I've built
-- [Taxi-App](Taxi App) - This is a taxi booking system program allowing users to create accounts, book taxis, view/edit account details, and generate bills for completed rides.
+- [TaxiApp](Taxi App) - This is a taxi booking system program allowing users to create accounts, book taxis, view/edit account details, and generate bills for completed rides.
 - [KadiPay](KadiPay) - KadiPay is your gateway to effortless cryptocurrency-to-fiat conversions, with a primary focus on USD and Kes.
 - [Tubonge](Tubonge) - A Full Stack Chat Application using React and Firebase.
 - [Bus](Bus) - This is a simple Bus Reservation System programmed using Cpp. 
