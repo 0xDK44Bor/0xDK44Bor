@@ -32,7 +32,7 @@ Goal is to build more open source projects in Android Development and Web Applic
 - [UI-Components](https://ui-comp69.vercel.app) - Fully Customizable & fully Typed UI Components using TailwindCSS + Typescript.
 - [Web-wallet-connect](https://github.com/starc007/web3-wallet-connect) - Open source wallet connection library for your Dapps
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=starc007&show_icons=true&locale=en" alt="sirbor" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sirbor&show_icons=true&locale=en" alt="sirbor" /></p>
     
 
 This readme file is built with [sirbor.tech](https://sirbor.tech) ❤️
