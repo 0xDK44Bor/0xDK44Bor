@@ -13,15 +13,14 @@
 Goal is to build more open source projects in Android Development and Web Application Development. Open for Collaborations. Reach out to me via twitter or Linkedin.
     
 ## ➤ Some tools that I work on
-- React
-- Next.js
-- Springboot
-- AWS
 - Java
 - Javascript
 - Python
 - Typescript
-- Javascript
+- React
+- Next.js
+- Springboot
+- AWS
 - TailwindCss
 - Solidity
 - Node.js
