@@ -35,4 +35,4 @@ Goal is to build more open source projects in Android Development and Web Applic
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sirbor&show_icons=true&locale=en" alt="sirbor" /></p>
     
 
-This readme file is built with [sirbor.tech](https://sirbor.tech) ❤️
+Read my Books at  [ReadTwice](https://www.readthistwice.com/sirbor/my-reads) ❤️
