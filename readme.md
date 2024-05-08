@@ -31,7 +31,7 @@ Goal is to build more open source projects in Android Development and Web Applic
 - ### Tubonge - A Full Stack Chat Application using React and Firebase.
 - ### Bus - This is a simple Bus Reservation System programmed using Cpp. 
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sirbor&show_icons=true&locale=en" alt="sirbor" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kdominicbor&show_icons=true&locale=en" alt="kdominicbor" /></p>
     
 
 Read my Books at  [ReadTwice](https://www.readthistwice.com/sirbor/my-reads) ❤️
