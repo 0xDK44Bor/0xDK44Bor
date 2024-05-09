@@ -1,4 +1,4 @@
-# <p align="center">Hi there 👋, I'm Sirbor</p>
+# <p align="center">Hi there 👋, I'm Dominic</p>
 <p align="center">
   Software Engineer | Building & Simplifying Things for Web
     <br />
@@ -13,17 +13,19 @@
 Goal is to build more open source projects in Android Development and Web Application Development. Open for Collaborations. Reach out to me via twitter or Linkedin.
     
 ## ➤ Some tools that I work on
-- Java
-- Javascript
+- C/C++
 - Python
-- Typescript
+- Javascript
 - React
-- Next.js
-- Springboot
+- Node js
+- Django
+- Next js
+- SQL
+- Mongo DB
+- Docker
+- Bash
+- Vi/Vim
 - AWS
-- TailwindCss
-- Solidity
-- Node.js
 
 ## ➤ Something I've built
 - ### Taxi App - This is a taxi booking system program allowing users to create accounts, book taxis, view/edit account details, and generate bills for completed rides.
@@ -31,7 +33,7 @@ Goal is to build more open source projects in Android Development and Web Applic
 - ### Tubonge - A Full Stack Chat Application using React and Firebase.
 - ### Bus - This is a simple Bus Reservation System programmed using Cpp. 
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sirbor&show_icons=true&locale=en" alt="sirbor" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=KDominicBor&show_icons=true&locale=en" alt="KDominicBor" /></p>
     
 
 Read my Books at  [ReadTwice](https://www.readthistwice.com/sirbor/my-reads) ❤️
