@@ -3,9 +3,9 @@
   Software Engineer | Building & Simplifying Things for Web
     <br />
     <br />
-    <a href="https://sirbor.tech" target="_blank">Portfolio Website</a>
+    <a href="https://dominicbor.me" target="_blank">Portfolio Website</a>
     ·
-    <a href="https://twitter.com/sirbor_" target="_blank">Twitter</a>
+    <a href="https://twitter.com/KDominicBor" target="_blank">Twitter</a>
     ·
     <a href="https://linkedin.com/in/dominicbor" target="_blank">Linkedin</a>
   </p>
